@@ -1,0 +1,46 @@
+.height{
+  min-height: 100vh;
+}
+.bg-pic{
+  background-image: url("../img/bg1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.pos-a{
+  position: absolute;
+  z-index: 1;
+}
+.bg-navbar-transparent-front {
+  background-color: rgba(38, 50, 56, 0.0) !important;
+}
+.bg-navbar-transparent-back {
+  background-color: rgba(38, 50, 56, 0.8) !important;
+}
+.bg-main-paragraph{
+  background-color: rgba(38, 50, 56, 0.6) !important;
+}
+.text-main-light{
+  color: rgba(255,255,255,0.7) !important;
+}
+.font-size-voter-1{
+  font-size: 1.2rem;
+}
+.voter-icon{
+  color: rgba(46, 125, 50, 1) !important;
+}
+.bg-login {
+  background-color: rgba(38, 50, 56, 0.8) !important;
+}
+.bg-input {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+  /* color:  rgba(38, 50, 56, 0.8) !important; */
+  color: rgba(27, 94, 32, 1) !important;
+}
+.icon-color{
+  color: rgba(255, 255, 255, 0.8);
+}
+.flag-green{
+  background-color: rgba(27, 94, 32, 1) !important;
+  color: rgba(255, 255, 255, 0.8) !important;
+}
